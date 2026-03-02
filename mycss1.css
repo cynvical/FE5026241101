@@ -1,0 +1,40 @@
+body{
+            background-color: #e6f2ff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 12px;
+            text-align: justify;
+        }
+
+    #publish{
+        font-weight: bold;
+        font-size: 10px;
+    }
+
+    .imgtitle {
+        text-align: center;
+        font-size: 10px;
+        color: #7e7e86;
+        width: 950px;
+        margin: auto;
+    }
+
+    .newstitle{
+        text-align: center;
+        color: #202084;
+        font-size:x-large;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bolder;
+    }
+
+    .aligncenter {
+         margin: 25px 50px 75px 100px;
+    }
+
+    .startparagraph {
+         margin-left: 60px;
+         margin-right: 60px;
+    }
+
+    .imgframe{
+        border-radius: 15px;
+    }
